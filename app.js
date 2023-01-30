@@ -12,6 +12,6 @@ document.querySelector("#show-login").addEventListener("click", function(event) 
   
   document.querySelector("#forgot-password").addEventListener("click", function(event) {
     event.preventDefault();
-    window.location.href = "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab";
+    window.location.href = "https://abhinav18b.github.io/abhinav-login/";
   });
   
